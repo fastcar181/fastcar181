@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fastcar181
 - 👀 I’m interested in learning more about artificial intelligence and machine learning.
-- 🌱 I’m currently working on a 2D top-down game in Unity!
+- 🌱 I’m currently getting into basic 3D game development.
 - 🤓 Portfolio Website: [Grace's Portfolio](https://portfolio-grace-les-projects.vercel.app/)
