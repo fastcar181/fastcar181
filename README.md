@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Grace Le! I'm a third year computer science student at Carleton University.
-- 👀 I’m interested in learning about enemy AI in video game development.
-- 😎 I’m currently working on (periodically) a 3D survival horror game that draws inspiration from old school PSX games.
-- 🤓 Portfolio Website: [Grace's Portfolio](https://portfolio-grace-les-projects.vercel.app/)
+portfolio website: [Grace's Portfolio](https://portfolio-grace-les-projects.vercel.app/)
